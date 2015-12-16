@@ -1,0 +1,26 @@
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 55
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 56
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 57
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 65
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 55
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 56
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 57
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 65
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 55
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 56
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 57
+2015-06-16 14:08:25 - PHP Notice:  Undefined index: USD in C:\xampp\htdocs\food\system\library\currency.php on line 65
+2015-06-16 16:49:31 - PHP Notice:  Undefined index: value in C:\xampp\htdocs\food\catalog\controller\journal2\checkout.php on line 576
+2015-06-16 16:49:31 - PHP Notice:  Undefined index: value in C:\xampp\htdocs\food\catalog\controller\journal2\checkout.php on line 576
+2015-06-19 14:04:31 - PHP Notice:  Undefined index: value in C:\xampp\htdocs\food\catalog\controller\journal2\checkout.php on line 576
+2015-06-19 14:04:31 - PHP Notice:  Undefined index: value in C:\xampp\htdocs\food\catalog\controller\journal2\checkout.php on line 576
+2015-06-19 14:04:31 - PHP Notice:  Undefined index: value in C:\xampp\htdocs\food\catalog\controller\journal2\checkout.php on line 576
+2015-06-19 14:04:31 - PHP Notice:  Undefined index: value in C:\xampp\htdocs\food\catalog\controller\journal2\checkout.php on line 576
+2015-06-19 14:04:31 - PHP Notice:  Undefined index: value in C:\xampp\htdocs\food\catalog\controller\journal2\checkout.php on line 576
+2015-06-19 14:04:31 - PHP Notice:  Undefined index: value in C:\xampp\htdocs\food\catalog\controller\journal2\checkout.php on line 576
+2015-06-19 14:04:31 - PHP Notice:  Undefined index: value in C:\xampp\htdocs\food\catalog\controller\journal2\checkout.php on line 576
+2015-06-19 14:04:31 - PHP Notice:  Undefined index: value in C:\xampp\htdocs\food\catalog\controller\journal2\checkout.php on line 576
+2015-06-19 14:04:31 - PHP Notice:  Undefined index: value in C:\xampp\htdocs\food\catalog\controller\journal2\checkout.php on line 576
+2015-06-23 12:06:43 - PHP Notice:  Undefined index: update in C:\xampp\htdocs\food\catalog\view\theme\journal2\template\checkout\cart.tpl on line 73
+2015-06-23 12:06:53 - PHP Notice:  Undefined index: update in C:\xampp\htdocs\food\catalog\view\theme\journal2\template\checkout\cart.tpl on line 73
+2015-12-08 7:12:37 - PHP Notice:  Error: Could not load template /var/www/html/noshhub/catalog/view/theme/journal2/template/journal2/module/static_banners.tpl! in /var/www/html/noshhub/vqmod/vqcache/vq2-system_engine_controller.php on line 90
