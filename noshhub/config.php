@@ -17,7 +17,7 @@ define('DIR_CACHE', '/var/www/html/noshhub/system/cache/');
 define('DIR_DOWNLOAD', '/var/www/html/noshhub/download/');
 define('DIR_LOGS', '/var/www/html/noshhub/system/logs/');
 
-// DB CONFIG
+// DB CONFIG1
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'root');
