@@ -91,21 +91,21 @@
   </form>
   <?php if ($coupon_status || $voucher_status || $reward_status || $shipping_status) { ?>
   <div class="action-area">
-  <h3><?php echo $text_next; ?></h3>
+ 
   <div class="content">
-    <p><?php echo $text_next_choice; ?></p>
+   
     <table class="radio">
       <?php if ($coupon_status) { ?>
-      <tr class="highlight">
+      <!-- <tr class="highlight">
         <td><?php if ($next == 'coupon') { ?>
           <input type="radio" name="next" value="coupon" id="use_coupon" checked="checked" />
           <?php } else { ?>
           <input type="radio" name="next" value="coupon" id="use_coupon" />
           <?php } ?></td>
         <td><label for="use_coupon"><?php echo $text_use_coupon; ?></label></td>
-      </tr>
+      </tr> -->
       <?php } ?>
-      <?php if ($voucher_status) { ?>
+     <!--  <?php if ($voucher_status) { ?>
       <tr class="highlight">
         <td><?php if ($next == 'voucher') { ?>
           <input type="radio" name="next" value="voucher" id="use_voucher" checked="checked" />
@@ -114,7 +114,7 @@
           <?php } ?></td>
         <td><label for="use_voucher"><?php echo $text_use_voucher; ?></label></td>
       </tr>
-      <?php } ?>
+      <?php } ?> -->
       <?php if ($reward_status) { ?>
       <tr class="highlight">
         <td><?php if ($next == 'reward') { ?>
@@ -129,10 +129,10 @@
     </table>
   </div>
   <div class="cart-module">
-    <div id="coupon" class="content" style="display: <?php echo ($next == 'coupon' ? 'block' : 'none'); ?>;">
+    <div id="coupon" class="content" style="display: initial;">
       <form action="<?php echo $action; ?>" method="post" enctype="multipart/form-data">
-        <?php echo $entry_coupon; ?>&nbsp;
-        <input type="text" name="coupon" value="<?php echo $coupon; ?>" />
+        
+        <input type="text" name="coupon" placeholder="Please enter Coupon Code"value="<?php echo $coupon; ?>" style="margin:0px;" />
         <input type="hidden" name="next" value="coupon" />
         &nbsp;
         <input type="submit" value="<?php echo $button_coupon; ?>" class="button" />

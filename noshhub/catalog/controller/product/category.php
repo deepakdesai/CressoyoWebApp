@@ -104,6 +104,7 @@ class ControllerProductCategory extends Controller {
 			$this->data['text_quantity'] = $this->language->get('text_quantity');
 			$this->data['text_manufacturer'] = $this->language->get('text_manufacturer');
 			$this->data['text_model'] = $this->language->get('text_model');
+			$this->data['text_serves'] = $this->language->get('text_serves');
 			$this->data['text_price'] = $this->language->get('text_price');
 			$this->data['text_tax'] = $this->language->get('text_tax');
 			$this->data['text_points'] = $this->language->get('text_points');
